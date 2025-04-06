@@ -1,0 +1,2 @@
+Child PID 17776 counted 7 alphabets.
+Parent PID 17775 counted 6 digits.
